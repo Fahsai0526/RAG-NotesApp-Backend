@@ -23,7 +23,7 @@ const corsOptions = {
     "http://localhost:5173",
     "http://localhost:5174",
     "http://localhost:5175",
-    "https://rag-notes-app-frontend-virid.vercel.app",
+    "https://rag-notes-app-frontend-qea94kx9e-nathathai-pumws-projects.vercel.app",
   ], // frontend domain
   credentials: true, // ✅ allow cookies to be sent
 };
